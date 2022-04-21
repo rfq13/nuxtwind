@@ -4,7 +4,7 @@
 
 1. Clone this repository
 ```bash
-git clone https://github.com/zuramai/nuxewind
+git clone https://github.com/rfq13/nuxtwind
 ```
 2. Install dependencies
 ```bash
